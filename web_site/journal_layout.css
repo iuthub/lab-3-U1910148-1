@@ -1,0 +1,21 @@
+.container{
+    border: 5px green solid;
+}
+.head{
+    border: 5px red solid;
+}
+.head h2{
+    border: 5px orange solid;
+}
+.fisrt_body{
+    border: 5px blue solid;
+} 
+.fisrt_body span{
+    border: 5px #800080 solid;
+}
+.second_body{
+    border: 5px blue solid;
+}
+.second_body span{
+    border: 5px #800080 solid;
+}
